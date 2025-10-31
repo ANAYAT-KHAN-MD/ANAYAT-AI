@@ -26,7 +26,7 @@ ___
 <h1 align="center"> 𝐆𝐞𝐭 𝐒𝐞𝐬𝐬𝐢𝐨𝐧 </h1>
 
 <p align="center">
-  <a href="https://anayat-hacker-iit3.onrender.com/">
+  <a href="https://anayatpairingsite-99bd6aef7b14.herokuapp.com/">
     <img src="./ANAYAT-AI/get-session-btn.svg" alt="GET SESSION" width="260"/>
   </a>
 </p>
