@@ -53,7 +53,7 @@ ___
 
 
 <p align="center">
-  <a href="https://api.whatsapp.com/send?phone=923452401207">
+  <a href="https://wa.me/+923452401207?text=•||•➪𝐇𝐈⏤͟͟͞͞⤹𝐀𝐍𝐀𝐘𝐀𝐓-𝑯𝑨𝑪𝑲𝑬𝑹-🥶🪽°||•">
     <img src="./ANAYAT-AI/contact-developer-btn.svg" alt="Contact Developer"/>
   </a>
 </p>
